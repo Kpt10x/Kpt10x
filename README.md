@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **work.tripathykrishna@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TPNIYEfe7BdMlvuSDkq5TKP-Vtbf0iWj/view?usp=sharing](https://drive.google.com/file/d/1TPNIYEfe7BdMlvuSDkq5TKP-Vtbf0iWj/view?usp=sharing)
-
 - ⚡ Fun fact **I think AI might take over the world… but I’ll still be the one building its frontend 😄**
 
 <h3 align="left">Connect with me:</h3>
