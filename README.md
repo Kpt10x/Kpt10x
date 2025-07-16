@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **LangChain & OpenAI APIs,Docker + CI/CD pipelines & Advanced DSA for FAANG roles**
 
-- 👯 I’m looking to collaborate on **Resume Ranker – Smart Resume Scoring Tool using NLP**
+- 👯 I’m looking to collaborate..
 
 - 🤝 I’m looking for help with **LLM-powered Chatbot for EdTech Platform**
 
